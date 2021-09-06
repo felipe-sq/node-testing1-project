@@ -16,16 +16,16 @@ Your instructor should have communicated which method to use for this project du
 
 #### Option B - Pull Request
 
-- [ ] Fork and clone the repository.
-- [ ] Implement your project in a `firstname-lastname` branch.
+- [x] Fork and clone the repository.
+- [x] Implement your project in a `firstname-lastname` branch.
 - [ ] Create a pull request of `firstname-lastname` against your `main` branch.
 - [ ] Open the assignment in Canvas and submit your pull request.
 
 ### Task 2: Minimum Viable Product
 
-- [ ] For Exercises 1-7 inside `index.js`:
-  - [ ] Write the tests in `index.test.js`.
-  - [ ] Implement the function or the class in `index.js`.
+- [x] For Exercises 1-7 inside `index.js`:
+  - [x] Write the tests in `index.test.js`.
+  - [x] Implement the function or the class in `index.js`.
 
 #### Notes
 
